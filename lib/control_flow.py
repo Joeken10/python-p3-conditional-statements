@@ -30,7 +30,6 @@ def fizzbuzz(num):
      else : return num   
 pass
 
-
 def calculator(operation, num1, num2):
     # your code here
      if operation =="+":
