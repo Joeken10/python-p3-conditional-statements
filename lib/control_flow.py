@@ -22,7 +22,6 @@ def hows_the_weather(temperature):
         return "It's perfect out there!"
     pass
 
-
 def fizzbuzz(num):
     # your code here
      if num % 3 == 0 and num % 5 == 0:return "FizzBuzz"
