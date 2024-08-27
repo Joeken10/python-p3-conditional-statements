@@ -8,8 +8,6 @@ def admin_login(username, password):
         return "Access denied"
 
 # pass
-
-
 def hows_the_weather(temperature):
     # your code here
 
